@@ -1,0 +1,7 @@
+# Ignorer tous les fichiers .pt (modèles PyTorch)
+*.pt
+
+# Ignorer tous les répertoires __pycache__ récursivement
+__pycache__/
+
+.DS_Store/

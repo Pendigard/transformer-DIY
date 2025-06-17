@@ -1,0 +1,16 @@
+{
+    "lang1": "en",
+    "lang2": "fr",
+    "token_path": "./tokenizer/tok_tatoeba_en_fr.json",
+    "data_path": "./data/tatoeba_en_fr",
+    "batch_size": 64,
+    "max_length": 256,
+    "max_epochs": 20,
+    "patience": 3,
+    "learning_rate": 0.0001,
+    "dropout": 0.1,
+    "d_model": 512,
+    "h": 8,
+    "d_ff": 2048,
+    "save_name": "en_fr_default"
+}

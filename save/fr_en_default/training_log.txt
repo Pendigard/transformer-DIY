@@ -1,0 +1,37 @@
+Epoch 1: Train Loss: 3.1266
+Epoch 1: Train Loss: 3.1266, Validation Loss: 2.2565
+Epoch 1: New best validation loss: 2.2565
+Epoch 2: Train Loss: 1.9814
+Epoch 2: Train Loss: 1.9814, Validation Loss: 1.7718
+Epoch 2: New best validation loss: 1.7718
+Epoch 3: Train Loss: 1.5806
+Epoch 3: Train Loss: 1.5806, Validation Loss: 1.5565
+Epoch 3: New best validation loss: 1.5565
+Epoch 4: Train Loss: 1.3481
+Epoch 4: Train Loss: 1.3481, Validation Loss: 1.4349
+Epoch 4: New best validation loss: 1.4349
+Epoch 5: Train Loss: 1.1879
+Epoch 5: Train Loss: 1.1879, Validation Loss: 1.3556
+Epoch 5: New best validation loss: 1.3556
+Epoch 6: Train Loss: 1.0632
+Epoch 6: Train Loss: 1.0632, Validation Loss: 1.3072
+Epoch 6: New best validation loss: 1.3072
+Epoch 7: Train Loss: 0.9622
+Epoch 7: Train Loss: 0.9622, Validation Loss: 1.2823
+Epoch 7: New best validation loss: 1.2823
+Epoch 8: Train Loss: 0.8766
+Epoch 8: Train Loss: 0.8766, Validation Loss: 1.2608
+Epoch 8: New best validation loss: 1.2608
+Epoch 9: Train Loss: 0.8028
+Epoch 9: Train Loss: 0.8028, Validation Loss: 1.2556
+Epoch 9: New best validation loss: 1.2556
+Epoch 10: Train Loss: 0.7382
+Epoch 10: Train Loss: 0.7382, Validation Loss: 1.2467
+Epoch 10: New best validation loss: 1.2467
+Epoch 11: Train Loss: 0.6807
+Epoch 11: Train Loss: 0.6807, Validation Loss: 1.2554
+Epoch 12: Train Loss: 0.6303
+Epoch 12: Train Loss: 0.6303, Validation Loss: 1.2544
+Epoch 13: Train Loss: 0.5844
+Epoch 13: Train Loss: 0.5844, Validation Loss: 1.2617
+Early stopping at epoch 13 with best validation loss: 1.2467
